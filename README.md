@@ -8,7 +8,7 @@ It is hoped that someone will discover this project and carry it forward, contin
 
 Thank you all.
 
-本文档通过Akaruzi项目开发人的dies_aitrans项目进行对Steam版data文件解包。
+本文档通过Akaruzi大佬的dies_aitrans项目进行对Steam版data文件解包。
 
 对patch文件的汉化编写及修改，进行一次校对。
 
