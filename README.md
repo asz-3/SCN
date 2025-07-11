@@ -4,7 +4,7 @@ It conducts a proofreading of the patch file's compilation and modifications.
 
 The game content of the first six chapters of the game file was translated using AI tools, and a proofreading was conducted (including line count, character names, or incantations).
 
-It is hoped that someone will discover this project and carry it forward, continuing to complete the full text localization of the game (the heroine's route, i.e., the game content beyond the common route). 
+I hope someone discovers this project and continues to pass it on, completing the full Chinese localization of the game. I will also continue to translate this text file and document for the long term (focusing on the heroine's route, i.e., the game content outside the common route).
 
 Thank you all.
 
@@ -14,7 +14,7 @@ Thank you all.
 
 使用AI工具翻译了游戏文件“前六章”的游戏内容，并进行一次校对（行数、角色名称或咏唱）。
 
-希望有人发现此项目，并继续传递下去，继续完成游戏全文本的汉化（女主线路、即共通线以外的游戏内容）。
+希望有人发现此项目，并继续传递下去，继续完成游戏全文本的汉化，我也会对本文本文件、本文档做长期翻译（女主线路、即共通线以外的游戏内容）。
 
 谢谢你们。
 
